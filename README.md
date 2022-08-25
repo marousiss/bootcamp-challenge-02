@@ -14,6 +14,12 @@ The user can scroll down to view information about me, my work history, and how 
 
 To access the webpage portfolio click on the followin link: https://marousiss.github.io/bootcamp-challenge-02/
 
+Webpage screenshots:
+
+![Screenshot 1](./assets/images/Challenge-02-screenshot-1.png)
+
+![Screenshot 1](./assets/images/Challenge-02-screenshot-2.png)
+
 ## Credits
 
 N/A
